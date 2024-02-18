@@ -1,0 +1,15 @@
+{
+  "user": [
+    {
+      "id": "426e",
+      "userName": "mani",
+      "password": "123",
+      "fullname": "Mani-1",
+      "email": "mani1@ha.com",
+      "phone": "112233",
+      "country": "us",
+      "address": "ooh",
+      "gender": "female"
+    }
+  ]
+}

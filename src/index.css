@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.gender-check {
+  height: 20px;
+  width: 20px;
+  margin: 1%;
+}
